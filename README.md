@@ -4,11 +4,16 @@ Welcome to the Rust Workshop repository. This repository contains presentations,
 
 ## Table of Contents
 - [Presentations](#presentations)
+- [Getting Started](#Getting_started)
 - [Assignments](#assignments)
 - [Relevant Content](#relevant-content)
 
 ## Presentations
 !TODO()
+
+## Getting started
+To get you ready to start programming in Rust given you favorite OS and IDE we have written a [small guide](Getting_Started_with_Rust.md). Follow this guide and you should be up and running within a few minutes. I you experience any problems ask the organizers or the people around you for help. 
+
 
 ## Assignments
 
