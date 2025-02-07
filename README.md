@@ -39,7 +39,7 @@ After the presentation you will be able to work on some of these predefined assi
 
 ### Expert
  - [Lock_Free_Stack](assignments/3_expert/E1_Lock_Free_Stack.md)
- - [Lorenz_Curve](assignments/3_expert/E2_Lorenz_Curve.md)
+ - [Lorenz_Attractor](assignments/3_expert/E2_Lorenz_Attractor.md)
  - [Network_Protocol_Implementation](assignments/3_expert/E3_Network_Protocol_Implementation.md)
  
 ## Relevant Content
