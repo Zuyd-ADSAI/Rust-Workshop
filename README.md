@@ -49,3 +49,4 @@ Here you can find some greate resources that ca help you with example and unders
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [Rust Lang Cheat Sheet](https://cheats.rs/)
 - [Continuing Your Rust Learning Journey](Continuing_Your_Rust_Learning_Journey.md)
+- [Compilation of Rust Learning Materials](https://github.com/ctjhoa/rust-learning)
