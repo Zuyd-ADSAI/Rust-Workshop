@@ -44,6 +44,10 @@ Rustup is the official Rust toolchain installer that manages Rust versions and a
 1. Install "Rust" plugin from JetBrains marketplace
 2. Configure Rust toolchain in settings
 
+### RustRover
+1. Install RustRover form JetBrains. 
+2. Done.
+
 ### Sublime Text
 1. Install "Rust Enhanced" package via Package Control
 2. Add "rust_analyzer" for advanced IDE features
