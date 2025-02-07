@@ -46,5 +46,6 @@ After the presentation you will be able to work on some of these predefined assi
 
 Here you can find some greate resources that ca help you with example and understanding Rust's concepts. After the workshop you could continue with the content in the [Continuing Your Rust Learning Journey](Continuing_Your_Rust_Learning_Journey.md) file.
 - [The Rust Book](https://doc.rust-lang.org/book/)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [Rust Lang Cheat Sheet](https://cheats.rs/)
 - [Continuing Your Rust Learning Journey](Continuing_Your_Rust_Learning_Journey.md)
