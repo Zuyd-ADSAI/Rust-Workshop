@@ -35,6 +35,7 @@ After the presentation you will be able to work on some of these predefined assi
  - [Time_Series_Database](assignments/2_intermediate/I4_Time_Series_Database.md)
  - [Pixel_Buffer_Manipulator](assignments/2_intermediate/I5_Pixel_Buffer_Manipulator.md)
  - [Multi-threaded_File_search](assignments/2_intermediate/I6_Multi-threaded_File_search.md)
+ - [Reverse Polish Notation (RPN) Interpreter](assignments/2_intermediate/I7_Reverse_Polish_Notation_Interpreter.md)
 
 ### Expert
  - [Lock_Free_Stack](assignments/3_expert/E1_Lock_Free_Stack.md)
