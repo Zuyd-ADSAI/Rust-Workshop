@@ -4,7 +4,7 @@ Welcome to the Rust Workshop repository. This repository contains presentations,
 
 ## Table of Contents
 - [Presentations](#presentations)
-- [Getting Started](#Getting_started)
+- [Getting Started](#Getting-started)
 - [Assignments](#assignments)
 - [Relevant Content](#relevant-content)
 
