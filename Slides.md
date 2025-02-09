@@ -831,7 +831,19 @@ impl<T> Queue<T> {
 # Overflow
 
 ```rust
-let mut test:u8 = 0;
+let mut test: u8 = 0;
+loop {
+    test += 1
+    println!("{}", test);
+}
+```
+
+---
+
+# Overflow
+
+```rust
+let mut test: u8 = 0;
 loop {
     test = match test.checked_add(1) {
         Some(x) => x,
@@ -841,8 +853,6 @@ loop {
 }
 println!("We almost had an overflow");
 ```
-
----
 
 ---
 
