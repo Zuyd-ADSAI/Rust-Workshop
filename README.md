@@ -9,7 +9,8 @@ Welcome to the Rust Workshop repository. This repository contains presentations,
 - [Relevant Content](#relevant-content)
 
 ## Presentations
-!TODO()
+You can find the slides to the presentation of the workshop [here](presentation/Slides.html). The source of the slides is also provided as Markdown/Marp [here](presentation/Slides.md).
+
 
 ## Getting started
 To get you ready to start programming in Rust given you favorite OS and IDE we have written a [small guide](Getting_Started_with_Rust.md). Follow this guide and you should be up and running within a few minutes. I you experience any problems ask the organizers or the people around you for help. 
