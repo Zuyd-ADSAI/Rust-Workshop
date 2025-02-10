@@ -3,7 +3,7 @@ title: Rust Workshop
 version: 1.0.0
 theme: default
 class: invert
-footer: ![width:80px](img/ferris.png) 
+footer: ![width:80px](../img/ferris.png) 
 header: 
 marp: true
 backgroundColor: #515151
@@ -28,7 +28,7 @@ h1 {
 <h1> Rust Workshop - ADSAI </h1> 
 
 
-![w:500 center](img/rust-logo-blk-invert.svg)
+![w:500 center](../img/rust-logo-blk-invert.svg)
 
 ---
 <!-- paginate: true -->
@@ -62,7 +62,7 @@ Rust is a programming language focusing on:
 </div>
 <div>
 
-![w:1000](img/paradigms.png)
+![w:1000](../img/paradigms.png)
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Rust is a programming language focusing on:
 # Age old problem of memory safety
 
 
-![w:1050 center](img/TimelineOfProgrammingLanguages.png)
+![w:1050 center](../img/TimelineOfProgrammingLanguages.png)
 
 ---
 
@@ -108,12 +108,12 @@ Rust is a programming language focusing on:
 
 ---
 
-![w:700 center](img/stack_heap.drawio.svg)
+![w:700 center](../img/stack_heap.drawio.svg)
 
 
 --- 
 
-![w:900 center](img/stack_frame.drawio.svg)
+![w:900 center](../img/stack_frame.drawio.svg)
 
 
 --- 
@@ -239,7 +239,7 @@ void foo(){
 - CPU spikes roughly every 2 minutes 
 - Go forces Gargabe Collector to run at a minimum every 2 minutes
 
-![w:1000 center](img/discord_go_lang_chart.png)
+![w:1000 center](../img/discord_go_lang_chart.png)
 
 ---
 
@@ -248,7 +248,7 @@ void foo(){
 - Go team switched to Rust (no Garbage Collector)
 - (Rust in blue, Go in purple) 
 
-![w:1000 center](img/discord_rust.png)
+![w:1000 center](../img/discord_rust.png)
 
 ---
 
@@ -313,7 +313,7 @@ let s1 = String::from("hello");
 let s2 = s1;
 ```
 
-![w:500 center bg right](img/trpl04-01.svg)
+![w:500 center bg right](../img/trpl04-01.svg)
 
 ---
 
@@ -323,7 +323,7 @@ let s1 = String::from("hello");
 let s2 = s1;
 ```
 
-![w:500 center bg right](img/trpl04-02.svg)
+![w:500 center bg right](../img/trpl04-02.svg)
 
 ---
 
@@ -333,7 +333,7 @@ let s1 = String::from("hello");
 let s2 = s1;
 ```
 
-![w:500 center bg right](img/trpl04-04.svg)
+![w:500 center bg right](../img/trpl04-04.svg)
 
 ---
 
@@ -882,7 +882,7 @@ println!("We almost had an overflow");
 
 ## Rust compiler, won't let you crash
 
-![w:500 center](img/compiler_drives.jpg)
+![w:500 center](../img/compiler_drives.jpg)
 
 ---
 
@@ -922,4 +922,4 @@ cargo add serde --features derive,rc
 ```
 ---
 
-![w:1000](img/ar-code.png)
+![w:1000](../img/ar-code.png)
