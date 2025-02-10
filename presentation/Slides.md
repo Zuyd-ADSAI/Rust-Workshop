@@ -921,3 +921,5 @@ cargo add tokio --features full
 cargo add serde --features derive,rc
 ```
 ---
+
+![w:1000](img/ar-code.png)
