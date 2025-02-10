@@ -83,7 +83,7 @@ Rust is a programming language focusing on:
 ## [StackOverflow developer survey 2024](https://survey.stackoverflow.co/2024/technology#2-programming-scripting-and-markup-languages)
 
 <div class="trim">
-<img src="img/stackoverflow-dev-survey-2024-technology-admired-and-desired-language-desire-admire-social.png" />
+<img src="../img/stackoverflow-dev-survey-2024-technology-admired-and-desired-language-desire-admire-social.png" />
 </div>
 
 ---
