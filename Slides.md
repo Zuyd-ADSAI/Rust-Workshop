@@ -880,6 +880,44 @@ println!("We almost had an overflow");
 
 ---
 
-# The real Copilot:
-
 ## Rust compiler, won't let you crash
+
+![w:500 center](img/compiler_drives.jpg)
+
+---
+
+# Cargo 
+```bash
+cargo new hello_world
+$ cd hello_world
+$ tree .
+.
+├── Cargo.toml
+└── src
+    └── main.rs
+$ cargo run
+$ cargo run --release
+```
+
+---
+
+# Cargo 
+```bash
+# Add a simple dependency
+cargo add serde
+
+# Add a specific version
+cargo add tokio@1.28.0
+
+# Add with version requirements
+cargo add regex@^1.5
+cargo add chrono@~4.0.0
+
+# Add multiple crates at once
+cargo add serde serde_json tokio
+
+# Add with specific features enabled
+cargo add tokio --features full
+cargo add serde --features derive,rc
+```
+---
