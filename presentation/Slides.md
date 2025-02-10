@@ -922,4 +922,4 @@ cargo add serde --features derive,rc
 ```
 ---
 
-![w:1000 center](../img/qr-code.png)
+![w:500 center](../img/qr-code.png)
